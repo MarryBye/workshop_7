@@ -10,7 +10,7 @@
 
 ## Виконана робота:
 
-![](https://raw.githubusercontent.com/MarryBye/workshop_6/refs/heads/master/images/image.png)  
+![](https://github.com/MarryBye/workshop_7/blob/master/images/image.png?raw=true)  
 
 Зверху - референс, знизу - те, що було зроблено.
 Створена сторінка курсу у відповідності із завданням, використані необхідні шрифти.
